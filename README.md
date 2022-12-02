@@ -1,5 +1,5 @@
-# Feedback-System
-Feedback system developed in PHP, MYSql
+# Voting Management System
+This DBMS project have developed on PHP, MYSql, and web technologies.
 
 To Run:
 1) create an SQL database "feedback"
