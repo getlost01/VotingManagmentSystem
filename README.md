@@ -11,6 +11,7 @@ This DBMS project have developed on PHP, MYSql, and web technologies.
 3) Place the project file in the root directory of your server
 4) Navigate to the root directory for submitting feedback and "/admin" for viewing feedback
 5) Default username: admin@admin.com , password: admin
+6) All data of MYSql have been displayed on /admin/mainpage.php
 
 ## Preview
 <img width="500" src="https://iili.io/HBiVtA7.md.png" alt="HBiVtA7.md.png" border="0">
